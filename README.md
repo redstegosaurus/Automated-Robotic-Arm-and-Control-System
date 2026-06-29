@@ -1,7 +1,7 @@
 # Automated-Robotic-Arm-and-Control-System
 
 Automated Robot Arm Control System
-This project features a fully automated robotic arm built and programmed to perform precise, repeatable movements using microcontroller‑based control logic. The system integrates multiple servos, sensor feedback, and custom motion routines to execute tasks with accuracy and stability. I designed and assembled the arm structure, implemented the control algorithms, and developed a streamlined workflow for automated operation.
+This project features a fully automated robotic arm built and programmed to perform precise, repeatable movements using microcontroller‑based control logic. The system integrates multiple servos, sensor feedback, and custom motion routines to execute tasks with accuracy and stability. We designed and assembled the arm structure, implemented the control algorithms, and developed a streamlined workflow for automated operation.
 
 The project includes:
 
