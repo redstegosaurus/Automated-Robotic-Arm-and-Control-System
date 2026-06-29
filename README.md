@@ -18,4 +18,9 @@ Calibration and tuning for smooth, consistent operation
 Expandable architecture for future features like object detection or path planning
 
 This build demonstrates hands‑on experience with robotics, embedded systems, motion control, and hardware–software integration. It serves as a foundation for more advanced automation projects and showcases practical engineering skills in mechanical design, electronics, and programming.
-![Logo](Images/Screenshot 2026-06-08 131126.png)
+![Logo](Images/image1.png)
+![Logo](Images/image2.png)
+![Logo](Images/image3.png)
+![Logo](Images/image4.png)
+![Logo](Images/image5.png)
+
