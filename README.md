@@ -19,7 +19,5 @@ Expandable architecture for future features like object detection or path planni
 
 This build demonstrates hands‑on experience with robotics, embedded systems, motion control, and hardware–software integration. It serves as a foundation for more advanced automation projects and showcases practical engineering skills in mechanical design, electronics, and programming.
 ![Logo](Images/ArmImageV_2:1.png)
-![Logo](Images/ArmImageV_2:2.png)
-![Logo](Images/ArmImageV_2:3.png)
-![Logo](Images/ArmImageV_2:4.png)
+
 
